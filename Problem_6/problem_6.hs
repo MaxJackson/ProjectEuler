@@ -1,5 +1,5 @@
 -- Project Euler
--- Problem 3
+-- Problem 6
 --"Sum square difference"
 -- solved by Max Jackson
 
